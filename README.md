@@ -107,7 +107,7 @@ MBA Major Project focused on employee attrition and retention strategies in the 
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/sanjayk2001
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayk2001/)
 * Email: sanjaykumartvm12@gmail.com
 
 ---

@@ -109,17 +109,14 @@ MBA Major Project focused on employee attrition and retention strategies in the 
 
 ⭐ Thank you for visiting my profile!
 
-<!--
-**sanjaykanalytics/sanjaykanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaykanalytics&show_icons=true&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjaykanalytics)
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykanalytics&layout=compact)

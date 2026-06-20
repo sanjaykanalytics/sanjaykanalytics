@@ -57,9 +57,14 @@ MBA graduate specializing in Human Resource Management with a strong interest in
 
 ### Other Skills
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Reporting and Documentation
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Reporting and Documentation
+- Data Visualization
+- Problem Solving
+- Analytical Thinking
+- Statistical Analysis
+- Business Understanding
 
 ---
 
@@ -107,7 +112,6 @@ MBA Major Project focused on employee attrition and retention strategies in the 
 
 ---
 
-⭐ Thank you for visiting my profile!
 
 ## 📊 GitHub Stats
 
@@ -120,3 +124,6 @@ MBA Major Project focused on employee attrition and retention strategies in the 
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykanalytics&layout=compact)
+
+
+⭐ Thank you for visiting my profile!

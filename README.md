@@ -1,5 +1,7 @@
 # Hi there, I'm Sanjay 👋
 
+![](https://komarev.com/ghpvc/?username=sanjaykanalytics&color=blue&style=for-the-badge)
+
 ## 🎓 About Me
 
 MBA graduate specializing in Human Resource Management with a strong interest in Data Analytics and Generative AI. Passionate about transforming data into actionable insights and continuously learning through projects and hands-on experience.
@@ -115,15 +117,15 @@ MBA Major Project focused on employee attrition and retention strategies in the 
 
 ## 📊 GitHub Stats
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaykanalytics&show_icons=true&theme=default)
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaykanalytics&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjaykanalytics)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjaykanalytics&theme=tokyonight)
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykanalytics&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykanalytics&layout=compact&theme=tokyonight)
 
 
 ⭐ Thank you for visiting my profile!
